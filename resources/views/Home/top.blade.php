@@ -14,7 +14,7 @@
         <div class = 'elements'>
             <button onclick="location.href='/blogs/'">Blog</button>
             <button onclick="location.href='/categorys/'">Work</button>
-            <button onclick="location.href=''">Profile</button>
+            <button onclick="location.href='/profiles/'">Profile</button>
             <button onclick="location.href=''">Q&A</button>
         </div>
     </body>

@@ -28,6 +28,8 @@ Route::get('/categorys/request', 'CategoryController@request');
 
 Route::get('/solos/', 'SoloController@index');
 
+Route::get('/profiles/', 'ProfileController@index');
+
 
 
 
